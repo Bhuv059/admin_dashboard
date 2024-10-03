@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a admin dashboard UI built with Next.js. It is only the front-end interface so we are just using files for the data. Feel free to add on to it and make it a full stack project.
+
+Packages Used
+Next.js/React
+TypeScript
+Shadcn/ui
+Tailwind CSS
+Recharts
+Lucide React
+React Hook Form
+Zod
+Next Themes
 
 ## Getting Started
 
